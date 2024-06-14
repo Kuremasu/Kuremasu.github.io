@@ -4,10 +4,10 @@ title: Redirecting to new extensions page
 head:
   - - meta 
     - http-equiv: refresh
-      content: 0; URL=https://Kuremasu.github.io/extensions/
+      content: 0; URL=https://tas33n.github.io/Kuremasu/extensions/
   - - link
     - rel: canonical
-      href: https://Kuremasu.github.io/extensions/ 
+      href: https://tas33n.github.io/Kuremasu/extensions/ 
 ---
 
 You should be redirected to the extensions listing automatically. If it doesn't
