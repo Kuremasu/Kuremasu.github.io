@@ -16,7 +16,7 @@ hero:
       link: "/docs/guides/getting-started"
     - theme: "alt"
       text: "Star the project"
-      link: "https://github.com/Kuremasu/extensions"
+      link: "https://github.com/tas33n/Kuremasu"
 
 features:
   - title: "Extensions"
