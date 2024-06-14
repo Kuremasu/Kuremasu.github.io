@@ -39,13 +39,13 @@ export default defineConfig({
     socialLinks: [
       {
         icon: 'github',
-        link: 'https://github.com/Kuremasu/extensions',
+        link: 'https://github.com/tas33n/Kuremasu',
         ariaLabel: 'Project GitHub',
       },
     ],
     
     editLink: {
-      pattern: 'https://github.com/Kuremasu/Kuremasu.github.io/edit/main/website/:path',
+      pattern: 'https://github.com/tas33n/Kuremasu/edit/main/website/:path',
       text: 'Help us improve this page',
     },
 
